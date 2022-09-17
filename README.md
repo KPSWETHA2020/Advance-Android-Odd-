@@ -332,7 +332,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 <br><br><br><br><br><br>
 
 ### Insert!
-[image](https://user-images.githubusercontent.com/75235209/190847617-5cf66f61-06ea-44ff-847e-642c8b557473.png)
+![image](https://user-images.githubusercontent.com/75235209/190847962-9db7f8d0-e962-442e-b565-65d097e7a854.png)
 
 ### Fetch
 ![image](https://user-images.githubusercontent.com/75235209/190847706-73d2e5be-c06a-4071-a4d9-e83ca459ece7.png)
